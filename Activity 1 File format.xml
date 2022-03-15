@@ -1,0 +1,79 @@
+<?xml version ="1.0" encoding = "UFT-8"?>
+<!DOCTYPE Grading SYSTEM "File format DTD.dtd">
+<grades>
+  <Mathematics>
+    <Test1>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> 54% </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> 32% </score>
+	  </Student>
+	</Test1>
+	<Test2>
+	<Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> 63% </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> 41% </score>
+	  </Student>
+	</Test2>
+  </Mathematics>
+  <English_Assignment_1>
+    <Eassy1>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> C+ </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> C-</score>
+	  </Student>
+	</Eassy1>
+	<Eassy2>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> B+ </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> C- </score>
+	  </Student>
+	</Eassy2>
+  </English_Assignment_1>
+  <IT>
+    <Activity1>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> Pass </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> Fail</score>
+	  </Student>
+	</Activity1>
+	<Test2>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> 32% </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> 73%</score>
+	  </Student>
+	
+	</Test2>
+	<Eassy3>
+	  <Student ID="16430122-1521" name="Pace, Camden G.">
+	  <score> C+ </score>
+	  </Student>
+	  <Student ID="16470212-9851" name="Weber, Lucy X.">
+	  <score> D+</score>
+	  </Student>
+	</Eassy3>
+  </IT>
+</grades>  
+
+
+
+
+
+
+
+
+
+
+
+

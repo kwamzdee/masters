@@ -1,0 +1,7 @@
+<!DOCTYPE grades [
+                <!ELEMENT grades(Mathematics,English Assignment 1, IT)>
+                <!ELEMENT Mathematics(Test1,Test2)>
+                <!ELEMENT Test1(Student)>
+                <!ATLIST Student format (ID, name) #REQUIRED>
+                <!ELEMENT score(#PCDATA)
+]>
